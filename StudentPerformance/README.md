@@ -6,6 +6,7 @@ El **Student Performance Dataset** es un conjunto de datos diseñado para analiz
 
 El dataset contiene **10,000 registros de estudiantes**, donde cada registro incluye información sobre diversas variables predictoras y un índice de desempeño académico.
 
+La base de datos está [aquí.](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 ---
 
 ## 📊 Variables
@@ -74,7 +75,7 @@ en el desempeño académico de los estudiantes.
 >
 > Las relaciones entre las variables y el índice de rendimiento pueden no reflejar situaciones reales ni comportamientos observados en contextos educativos reales.
 
-La base de datos está [https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression]
+La base de datos está [aquí.](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 ---
 
