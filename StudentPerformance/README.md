@@ -74,6 +74,8 @@ en el desempeño académico de los estudiantes.
 >
 > Las relaciones entre las variables y el índice de rendimiento pueden no reflejar situaciones reales ni comportamientos observados en contextos educativos reales.
 
+La base de datos está [https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression]
+
 ---
 
 ## 📄 Licencia
